@@ -109,7 +109,7 @@
     "swagger-ui-dist": "5.17.14",
     "typescript": "5.4.5",
     "vite": "5.2.13",
-    "vite-plugin-static-copy": "1.0.5",
+    "vite-plugin-static-copy": "2.0.0",
     "vitest": "1.6.0",
     "vitest-sonar-reporter": "2.0.0",
     "wait-on": "7.2.0"
